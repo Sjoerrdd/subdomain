@@ -1,0 +1,20 @@
+{
+    "name": "toddmcbrearty/subdomain",
+    "description": "",
+    "authors": [
+        {
+            "name": "Todd Mc Brearty",
+            "email": "todd@elygen.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Toddmcbrearty\\Subdomain": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
